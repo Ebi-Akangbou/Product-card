@@ -43,4 +43,3 @@ I need a better way to use flex and grid to position a content at the center of 
 - Website - [Ebi Akangbou](https://vercel.com/ebi-akangbou)
 - Frontend Mentor - [Ebi Akangbou](https://www.frontendmentor.io/profile/Ebi-Akangbou)
 - Twitter - [Ebi Akangbou](https://www.twitter.com/EAkangbou)
-
