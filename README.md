@@ -14,11 +14,11 @@ Users should be able to:
 ### Screenshot
 
 ![](./screenshot.jpg)
-Check folder for screenshot of both mobile and desktop view.
+Check screenshot folder for both mobile and desktop view.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://p0vchr.csb.app)
 - Live Site URL: (https://vercel.com/ebi-akangbou)
 
 ## My process
@@ -27,6 +27,7 @@ Check folder for screenshot of both mobile and desktop view.
 
 - Semantic HTML5 markup
 - CSS custom properties
+- Flex
 
 
 ### What I learned
@@ -40,6 +41,6 @@ I need a better way to use flex and grid to position a content at the center of 
 ## Author
 
 - Website - [Ebi Akangbou](https://vercel.com/ebi-akangbou)
-- Frontend Mentor - [Ebi Akangbou](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [Ebi Akangbou](https://www.frontendmentor.io/profile/Ebi-Akangbou)
 - Twitter - [Ebi Akangbou](https://www.twitter.com/EAkangbou)
-- Instagram - [Ebi Akangbou] (https://www.instagram.com/ebi_ultimate/)
+
